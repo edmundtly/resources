@@ -8,6 +8,9 @@
 ## Blogs
 1. [Collab Fund](https://collabfund.com/blog/)
 2. [Farnam Street](https://fs.blog/blog/)
+3. [Sahil Bloom](https://www.sahilbloom.com/newsletter)
+4. [James Clear](https://jamesclear.com/articles)
+5. [Oaktree Capital](https://www.oaktreecapital.com/insights)
 
 ## Developer Resources
 1. [freeForGeeks Github](https://github.com/JuanPabloDiaz/freeForGeeks)
