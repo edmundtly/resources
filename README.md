@@ -8,4 +8,4 @@
 1. [Collab Fund Blog](https://collabfund.com/blog/) 
 
 ## Developer Resources
-* [freeForGeeks Github](https://github.com/JuanPabloDiaz/freeForGeeks)
+1. [freeForGeeks Github](https://github.com/JuanPabloDiaz/freeForGeeks)
