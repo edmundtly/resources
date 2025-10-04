@@ -3,7 +3,7 @@
 > 
 ## Table of Contents
 * [Blogs](#blogs)
-* [Developer Resources(#developer-resources)
+* [Developer Resources](#developer-resources)
 
 ## Blogs
 1. [Collab Fund](https://collabfund.com/blog/)
