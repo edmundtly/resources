@@ -5,4 +5,7 @@
 * [Blogs](#blogs)
 
 ## Blogs
-https://collabfund.com/blog/
+* https://collabfund.com/blog/
+
+## Developer Resources
+* https://github.com/JuanPabloDiaz/freeForGeeks
