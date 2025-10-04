@@ -1,4 +1,4 @@
-# List of useful learning resources and references
+# List of resources
 > **TIP**: Searching for something specific? Use `Ctrl+F` (or `Cmd+F` on macOS)!
 > 
 ## Table of Contents
