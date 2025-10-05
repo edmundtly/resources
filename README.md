@@ -5,6 +5,7 @@
 * [Blogs](#blogs)
 * [Developer Resources](#developer-resources)
 * [PDFs](#pdfs)
+* [Books](#books)
 
 ## Blogs
 1. [Collab Fund](https://collabfund.com/blog/)
@@ -18,3 +19,10 @@
 
 ## PDFs
 1. [If You Can - How Millenials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
+
+## Books
+1. *The Millionare Next Door* by Thomas Stanley and William Danko
+2. *Common Sense on Mutual Funds* by Jack Bogle
+3. *Devil Take the Hindmost* by Edward Chancellor
+4. *The Great Depression: A Diary* by Benjamin Roth
+5. *Your Money and Your Brain* by Jason Zweig
