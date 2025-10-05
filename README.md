@@ -4,6 +4,7 @@
 ## Table of Contents
 * [Blogs](#blogs)
 * [Developer Resources](#developer-resources)
+* [PDFs](#pdfs)
 
 ## Blogs
 1. [Collab Fund](https://collabfund.com/blog/)
@@ -14,3 +15,6 @@
 
 ## Developer Resources
 1. [freeForGeeks Github](https://github.com/JuanPabloDiaz/freeForGeeks)
+
+## PDFs
+1. [If You Can - How Millenials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
