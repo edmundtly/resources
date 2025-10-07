@@ -20,6 +20,9 @@
 ## PDFs
 1. [If You Can - How Millenials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
 
+## Youtube
+1. 
+
 ## Books
 1. *"The Millionare Next Door"* by Thomas Stanley and William Danko
 2. *"Common Sense on Mutual Funds"* by Jack Bogle
