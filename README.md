@@ -21,7 +21,11 @@
 1. [If You Can - How Millenials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
 
 ## Youtube
-1. 
+### Data
+1. [Apache Airflow](https://www.youtube.com/@ApacheAirflow)
+
+### Software 
+1. [GOTO Conferences](https://www.youtube.com/@GOTO-)
 
 ## Books
 1. *"The Millionare Next Door"* by Thomas Stanley and William Danko
