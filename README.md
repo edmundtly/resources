@@ -26,6 +26,8 @@
   - *`Career` / The #1 blog for engineering career growth.*
 - **[Uber Engineering](https://www.uber.com/blog/engineering/)**
   - *`Mixed` / High-scale system design case studies.*
+- **[PlanetScale Blog](https://planetscale.com/blog)**
+  - *`Data` `Tool` / High-quality content focused on serverless MySQL and database best practices.*
 
 ## 💰 Finance & Markets
 *Investing, Macroeconomics, and Wealth Building.*
@@ -50,6 +52,8 @@
   - *Curiosity Chronicle newsletter.*
 - **[Paul Graham Essays](http://www.paulgraham.com/articles.html)**
   - *`Philosophy` / Legendary essays on startups, wealth, and life.*
+- **[ssp.sh/brain](https://www.ssp.sh/brain/)**
+  - *A curated collection of thoughts, quotes, and mental models for better thinking.*
 
 ---
 
