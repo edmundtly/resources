@@ -22,6 +22,10 @@
   - *`SWE` / High-level talks from industry leaders.*
 - **[freeForGeeks Github](https://github.com/JuanPabloDiaz/freeForGeeks)**
   - *`Learning` / Massive list of free resources.*
+- **[The Pragmatic Engineer](https://blog.pragmaticengineer.com/)**
+  - *`Career` / The #1 blog for engineering career growth.*
+- **[Uber Engineering](https://www.uber.com/blog/engineering/)**
+  - *`Mixed` / High-scale system design case studies.*
 
 ## 💰 Finance & Markets
 *Investing, Macroeconomics, and Wealth Building.*
@@ -32,6 +36,8 @@
   - *Morgan Housel on the psychology of money.*
 - **[If You Can: Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)** (PDF)
   - *A quick PDF guide to index fund investing.*
+- **[Berkshire Hathaway Letters](https://www.berkshirehathaway.com/letters/letters.html)**
+  - *Warren Buffett's annual letters on business and investing.*
 
 ## 🌱 Growth & Mental Models
 *Productivity, Philosophy, and Life Advice.*
@@ -42,6 +48,8 @@
   - *Practical advice on atomic habits.*
 - **[Sahil Bloom](https://www.sahilbloom.com/newsletter)**
   - *Curiosity Chronicle newsletter.*
+- **[Paul Graham Essays](http://www.paulgraham.com/articles.html)**
+  - *`Philosophy` / Legendary essays on startups, wealth, and life.*
 
 ---
 
