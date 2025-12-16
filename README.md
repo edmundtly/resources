@@ -28,6 +28,7 @@
   - *`Mixed` / High-scale system design case studies.*
 - **[PlanetScale Blog](https://planetscale.com/blog)**
   - *`Data` `Tool` / High-quality content focused on serverless MySQL and database best practices.*
+- **[Anthology of Data Science](https://anthology-of-data.science/)**
 
 ## 💰 Finance & Markets
 *Investing, Macroeconomics, and Wealth Building.*
